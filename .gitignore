@@ -4,7 +4,7 @@ venv
 __pycache__/
 *.py[cod]
 *$py.class
-
+group1_shard*
 # C extensions
 *.so
 
